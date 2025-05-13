@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://koolaash.github.io/koolaash-portfolio",
+  "homepage": "https://koolaash.github.io/koolaash-webpage",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
